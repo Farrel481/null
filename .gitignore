@@ -1,0 +1,4 @@
+# Keep media folders in Git while excluding commonly large local video variants
+assets/video/*.mov
+assets/video/*.avi
+assets/video/*.mkv
